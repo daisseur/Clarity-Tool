@@ -35,10 +35,10 @@ Pour déployer ce projet, suivez les étapes ci-dessous :
 <summary><h3>Commandes d'installation</h3></summary>
   
   > ```sh
-  > git clone https://github.com/Al3xUI/Clarity-Tool
+  > git clone https://github.com/daisseur/Clarity-Tool
   > cd Clarity-Tool
   > git checkout daisseur/latest
-  > pip3 install requirements.txt
+  > pip3 install -r requirements.txt
   > python3 main.py
   > ```
 
